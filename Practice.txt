@@ -1,5 +1,5 @@
 Introduction to GitHub
 
 This is the place 
-where I started my 
+where I started
 practice of GitHub
